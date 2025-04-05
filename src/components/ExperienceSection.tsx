@@ -6,23 +6,9 @@ import { Badge } from "@/components/ui/badge";
 const ExperienceSection = () => {
   const experiences = [
     {
-      title: "NOC Intern",
-      company: "Vilcom Networks Limited",
-      period: "Nov 2024-Present",
-      location: "Nairobi, Kenya",
-      description: [
-        "Monitored and troubleshot network performance issues",
-        "Responded to alerts, resolved, or escalated incidents promptly",
-        "Communicated updates, resolutions, and technical guidance to customers",
-        "Logged incidents, maintained detailed service records, and prepared reports",
-        "Collaborated with technical teams to optimize network performance"
-      ],
-      skills: ["Network Monitoring", "Incident Response", "Technical Support", "Documentation"]
-    },
-    {
       title: "Junior Data Analyst",
       company: "Lish AI Labs",
-      period: "Jun 2023 - Oct 2024",
+      period: "Jun 2024 - Present",
       location: "Nakuru, Kenya",
       description: [
         "Analyze data for trends to support strategic decisions and improve business processes",
@@ -33,7 +19,20 @@ const ExperienceSection = () => {
       ],
       skills: ["Python", "Power BI", "SQL", "ETL", "Feature Engineering", "Git"]
     },
-    
+    {
+      title: "NOC Intern",
+      company: "Vilcom Networks Limited",
+      period: "Nov 2023",
+      location: "Nairobi, Kenya",
+      description: [
+        "Monitored and troubleshot network performance issues",
+        "Responded to alerts, resolved, or escalated incidents promptly",
+        "Communicated updates, resolutions, and technical guidance to customers",
+        "Logged incidents, maintained detailed service records, and prepared reports",
+        "Collaborated with technical teams to optimize network performance"
+      ],
+      skills: ["Network Monitoring", "Incident Response", "Technical Support", "Documentation"]
+    },
     {
       title: "ICT Intern",
       company: "Menengai Oil Refineries",
