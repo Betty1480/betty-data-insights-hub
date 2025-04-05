@@ -6,23 +6,9 @@ import { Badge } from "@/components/ui/badge";
 const ExperienceSection = () => {
   const experiences = [
     {
-      title: "Junior Data Analyst",
-      company: "Lish AI Labs",
-      period: "Jun 2024 - Present",
-      location: "Nakuru, Kenya",
-      description: [
-        "Analyze data for trends to support strategic decisions and improve business processes",
-        "Build Power BI dashboards for real-time KPI tracking and develop custom visualizations",
-        "Clean and transform data using Python and SQL, enhancing accuracy through preprocessing",
-        "Develop ETL pipelines for data integration and set up SQL databases",
-        "Create and optimize predictive models through feature engineering and hyperparameter tuning"
-      ],
-      skills: ["Python", "Power BI", "SQL", "ETL", "Feature Engineering", "Git"]
-    },
-    {
       title: "NOC Intern",
       company: "Vilcom Networks Limited",
-      period: "Nov 2023",
+      period: "Nov 2024-Present",
       location: "Nairobi, Kenya",
       description: [
         "Monitored and troubleshot network performance issues",
@@ -33,6 +19,21 @@ const ExperienceSection = () => {
       ],
       skills: ["Network Monitoring", "Incident Response", "Technical Support", "Documentation"]
     },
+    {
+      title: "Junior Data Analyst",
+      company: "Lish AI Labs",
+      period: "Jun 2023 - Oct 2024",
+      location: "Nakuru, Kenya",
+      description: [
+        "Analyze data for trends to support strategic decisions and improve business processes",
+        "Build Power BI dashboards for real-time KPI tracking and develop custom visualizations",
+        "Clean and transform data using Python and SQL, enhancing accuracy through preprocessing",
+        "Develop ETL pipelines for data integration and set up SQL databases",
+        "Create and optimize predictive models through feature engineering and hyperparameter tuning"
+      ],
+      skills: ["Python", "Power BI", "SQL", "ETL", "Feature Engineering", "Git"]
+    },
+    
     {
       title: "ICT Intern",
       company: "Menengai Oil Refineries",
