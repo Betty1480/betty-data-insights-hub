@@ -69,7 +69,7 @@ const HeroSection = () => {
             <div className="relative">
               <div className="rounded-2xl overflow-hidden bg-white shadow-xl border-8 border-white dark:border-gray-800">
                 <img 
-                  src="/placeholder.svg" 
+                  src="/lovable-uploads/57461cd7-64be-4545-85f2-14ebed9751e5.png" 
                   alt="Betty Saitoti - Data Analyst" 
                   className="w-full object-cover aspect-[4/5]"
                 />
